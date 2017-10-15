@@ -1,0 +1,55 @@
+Thu Jan 26 14:45:37 CET 2017 : 
+Thu Jan 26 14:45:37 CET 2017 : -------
+Thu Jan 26 14:45:37 CET 2017 : 
+Thu Jan 26 14:45:37 CET 2017 : 
+Thu Jan 26 14:45:37 CET 2017 : New Session
+Thu Jan 26 14:45:37 CET 2017 : 
+Thu Jan 26 14:45:37 CET 2017 : Initialize Machine Learning
+Thu Jan 26 14:45:37 CET 2017 : Connection initialized
+Thu Jan 26 14:45:37 CET 2017 : Protocol initialized
+Thu Jan 26 14:45:37 CET 2017 : Server waiting
+Thu Jan 26 14:45:37 CET 2017 : Determination of new informations
+Thu Jan 26 14:45:37 CET 2017 : Find Direction
+Thu Jan 26 14:45:37 CET 2017 : Find word
+Thu Jan 26 14:45:37 CET 2017 : Results : bottom;Alarm2
+Thu Jan 26 14:45:37 CET 2017 : Transmitting localisation and wordspotting results
+Thu Jan 26 14:45:37 CET 2017 : Server waiting
+Thu Jan 26 14:45:42 CET 2017 : Server waiting
+Thu Jan 26 14:45:42 CET 2017 : Determination of new informations
+Thu Jan 26 14:45:42 CET 2017 : Find Direction
+Thu Jan 26 14:45:42 CET 2017 : Find word
+Thu Jan 26 14:45:42 CET 2017 : Results : top;No song recognized
+Thu Jan 26 14:45:42 CET 2017 : Transmitting localisation and wordspotting results
+Thu Jan 26 14:45:42 CET 2017 : Server waiting
+Thu Jan 26 15:19:28 CET 2017 : 
+Thu Jan 26 15:19:28 CET 2017 : -------
+Thu Jan 26 15:19:28 CET 2017 : 
+Thu Jan 26 15:19:28 CET 2017 : 
+Thu Jan 26 15:19:28 CET 2017 : New Session
+Thu Jan 26 15:19:28 CET 2017 : 
+Thu Jan 26 15:19:28 CET 2017 : Initialize Machine Learning
+Thu Jan 26 15:19:28 CET 2017 : Connection initialized
+Thu Jan 26 15:19:28 CET 2017 : Protocol initialized
+Thu Jan 26 15:19:28 CET 2017 : Server waiting
+Thu Jan 26 15:19:28 CET 2017 : Determination of new informations
+Thu Jan 26 15:19:28 CET 2017 : Find Direction
+Thu Jan 26 15:19:28 CET 2017 : Find word
+Thu Jan 26 15:19:28 CET 2017 : Results : top;Alarm2
+Thu Jan 26 15:19:28 CET 2017 : Transmitting localisation and wordspotting results
+Thu Jan 26 15:19:28 CET 2017 : Server waiting
+Thu Jan 26 15:22:01 CET 2017 : 
+Thu Jan 26 15:22:01 CET 2017 : -------
+Thu Jan 26 15:22:01 CET 2017 : 
+Thu Jan 26 15:22:01 CET 2017 : 
+Thu Jan 26 15:22:01 CET 2017 : New Session
+Thu Jan 26 15:22:01 CET 2017 : 
+Thu Jan 26 15:22:01 CET 2017 : Initialize Machine Learning
+Thu Jan 26 15:22:01 CET 2017 : Connection initialized
+Thu Jan 26 15:22:01 CET 2017 : Protocol initialized
+Thu Jan 26 15:22:01 CET 2017 : Server waiting
+Thu Jan 26 15:22:01 CET 2017 : Determination of new informations
+Thu Jan 26 15:22:01 CET 2017 : Find Direction
+Thu Jan 26 15:22:01 CET 2017 : Find word
+Thu Jan 26 15:22:01 CET 2017 : Results : bottom;Mot3
+Thu Jan 26 15:22:01 CET 2017 : Transmitting localisation and wordspotting results
+Thu Jan 26 15:22:01 CET 2017 : Server waiting

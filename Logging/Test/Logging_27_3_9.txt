@@ -1,0 +1,810 @@
+mars 27, 2017 9:38:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 9:38:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:38:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:38:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:38:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:39:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:07 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:07 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:39:07 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:07 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:12 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:12 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:39:12 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:12 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:17 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:17 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:39:17 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:17 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:22 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:22 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:39:22 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:22 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:27 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:27 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:39:27 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:27 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:33 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:33 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:39:33 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:33 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:38 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:38 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:39:38 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:38 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:43 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:43 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:39:43 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:43 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:48 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:48 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:39:48 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:48 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:39:53 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:39:53 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:39:53 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:39:53 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:40:05 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 9:40:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:40:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:40:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:40:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:40:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:40:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:40:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:40:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:40:16 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:40:16 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:40:16 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:40:16 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:40:30 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 9:40:30 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:40:30 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:40:30 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:40:30 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:40:35 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:40:35 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:40:35 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:40:35 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:40:41 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:40:41 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:40:41 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:40:41 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:40:46 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:40:46 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:40:46 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:40:46 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:40:51 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:40:51 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:40:51 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:40:51 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:40:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:40:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:40:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:40:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:41:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:41:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:41:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:41:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:41:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:41:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:41:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:41:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:41:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:41:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:41:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:41:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:41:18 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:41:18 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:41:18 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:41:18 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:41:23 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:41:23 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:41:23 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:41:23 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:41:28 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:41:28 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:41:28 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:41:28 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:41:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:41:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:41:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:41:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:08 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 9:46:08 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:08 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:46:08 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:08 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:13 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:13 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:46:13 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:13 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:18 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:18 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:46:18 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:18 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:23 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:23 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:46:23 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:23 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:29 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:29 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:46:29 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:29 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:46:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:39 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:39 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:46:39 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:39 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:45 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:45 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:46:45 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:45 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:50 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:50 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:46:50 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:50 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:46:55 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:46:55 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:46:55 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:46:55 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:00 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:00 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:47:00 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:00 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:47:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:06 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:47:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:11 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:16 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:16 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:47:16 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:16 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:21 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:21 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:47:21 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:21 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:26 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:26 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:47:26 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:26 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:31 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:31 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:47:31 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:31 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:37 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:37 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:47:37 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:37 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:42 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:42 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+mars 27, 2017 9:47:42 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:42 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:49 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:49 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:47:49 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:49 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:47:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:47:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:47:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:47:56 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:48:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:48:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:48:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:01 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:48:07 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:48:07 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:48:07 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:07 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:48:13 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:48:13 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 9:48:13 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:13 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:48:19 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:48:19 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 9:48:19 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:19 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:48:25 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:48:25 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:48:25 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:25 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:48:30 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 9:48:30 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 9:48:30 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:30 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 9:48:43 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+mars 27, 2017 9:48:43 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:48:43 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 27, 2017 9:48:43 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:43 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:48:48 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:48:48 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:48:48 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:48 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:48:53 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:48:53 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:48:53 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:53 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:48:58 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:48:58 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:48:58 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:48:58 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:49:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:49:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:49:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:49:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:49:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:49:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:49:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 27, 2017 9:49:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:49:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 27, 2017 9:49:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:49:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:49:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:49:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 27, 2017 9:49:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:49:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:50:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:50:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:50:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:50:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:50:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:50:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:50:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:50:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:50:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:50:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:50:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:50:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:50:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:50:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:50:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:51:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 27, 2017 9:51:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:51:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:51:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:51:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 27, 2017 9:51:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:29 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:51:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:34 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:51:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:39 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:51:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:44 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:51:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:49 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:51:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:54 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:51:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:51:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 27, 2017 9:51:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:51:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:52:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:52:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:52:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:52:04 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:52:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:52:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 27, 2017 9:52:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:52:09 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:52:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:52:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 27, 2017 9:52:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:52:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:52:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:52:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:52:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:52:19 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+mars 27, 2017 9:52:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 27, 2017 9:52:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 27, 2017 9:52:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 27, 2017 9:52:24 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée

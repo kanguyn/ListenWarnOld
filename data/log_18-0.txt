@@ -1,0 +1,37 @@
+Wed Jan 18 22:33:22 CET 2017 : 
+Wed Jan 18 22:33:22 CET 2017 : -------
+Wed Jan 18 22:33:22 CET 2017 : 
+Wed Jan 18 22:33:22 CET 2017 : 
+Wed Jan 18 22:33:22 CET 2017 : New Session
+Wed Jan 18 22:33:22 CET 2017 : 
+Wed Jan 18 22:33:22 CET 2017 : Initialize Machine Learning
+Wed Jan 18 22:33:22 CET 2017 : Connection initialized
+Wed Jan 18 22:33:22 CET 2017 : Protocol initialized
+Wed Jan 18 22:33:22 CET 2017 : Server waiting
+Wed Jan 18 22:33:22 CET 2017 : Determination of new informations
+Wed Jan 18 22:33:22 CET 2017 : Find Direction
+Wed Jan 18 22:33:22 CET 2017 : Find word
+Wed Jan 18 22:33:22 CET 2017 : Results : bottom;No song recognized
+Wed Jan 18 22:33:22 CET 2017 : Transmitting localisation and wordspotting results
+Wed Jan 18 22:33:22 CET 2017 : Server waiting
+Wed Jan 18 22:33:27 CET 2017 : Server waiting
+Wed Jan 18 22:33:27 CET 2017 : Determination of new informations
+Wed Jan 18 22:33:27 CET 2017 : Find Direction
+Wed Jan 18 22:33:27 CET 2017 : Find word
+Wed Jan 18 22:33:27 CET 2017 : Results : bottom;Alarm2
+Wed Jan 18 22:33:27 CET 2017 : Transmitting localisation and wordspotting results
+Wed Jan 18 22:33:27 CET 2017 : Server waiting
+Wed Jan 18 22:33:32 CET 2017 : Server waiting
+Wed Jan 18 22:33:32 CET 2017 : Determination of new informations
+Wed Jan 18 22:33:32 CET 2017 : Find Direction
+Wed Jan 18 22:33:32 CET 2017 : Find word
+Wed Jan 18 22:33:32 CET 2017 : Results : bottom;Mot3
+Wed Jan 18 22:33:32 CET 2017 : Transmitting localisation and wordspotting results
+Wed Jan 18 22:33:32 CET 2017 : Server waiting
+Wed Jan 18 22:33:37 CET 2017 : Server waiting
+Wed Jan 18 22:33:37 CET 2017 : Determination of new informations
+Wed Jan 18 22:33:37 CET 2017 : Find Direction
+Wed Jan 18 22:33:37 CET 2017 : Find word
+Wed Jan 18 22:33:37 CET 2017 : Results : right;No song recognized
+Wed Jan 18 22:33:37 CET 2017 : Transmitting localisation and wordspotting results
+Wed Jan 18 22:33:37 CET 2017 : Server waiting

@@ -1,0 +1,2 @@
+avr. 05, 2017 3:02:56 PM Logging.Log write
+INFOS: <AndroidClient> Couldn't get I/O for the connection to 192.168.85.1

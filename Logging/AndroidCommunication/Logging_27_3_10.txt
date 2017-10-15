@@ -1,0 +1,66 @@
+mars 27, 2017 10:04:23 AM Logging.Log write
+INFOS: <PCServertoAndroid> Connection initialized
+mars 27, 2017 10:04:23 AM Logging.Log write
+INFOS: <PCServertoAndroid> Protocol initialized
+mars 27, 2017 10:06:20 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 27, 2017 10:06:20 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : top;Mot1
+mars 27, 2017 10:06:21 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 27, 2017 10:06:22 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 27, 2017 10:06:22 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 27, 2017 10:06:22 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;Mot1
+mars 27, 2017 10:06:22 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 27, 2017 10:06:23 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 27, 2017 10:06:23 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 27, 2017 10:06:23 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : left;Mot1
+mars 27, 2017 10:06:23 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 27, 2017 10:06:24 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 27, 2017 10:06:24 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 27, 2017 10:06:24 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : top;Mot1
+mars 27, 2017 10:06:24 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 27, 2017 10:06:25 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 27, 2017 10:06:25 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 27, 2017 10:06:25 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : top;Mot1
+mars 27, 2017 10:06:25 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 27, 2017 10:06:26 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 27, 2017 10:06:26 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 27, 2017 10:06:26 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : bottom;Mot1
+mars 27, 2017 10:06:26 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 27, 2017 10:06:27 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 27, 2017 10:06:27 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 27, 2017 10:06:27 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : left;Mot1
+mars 27, 2017 10:06:27 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 27, 2017 10:11:47 AM Logging.Log write
+INFOS: <AndroidClient> Couldn't get I/O for the connection to 192.168.85.1
+mars 27, 2017 10:12:41 AM Logging.Log write
+INFOS: <PCServertoAndroid> Connection initialized
+mars 27, 2017 10:12:41 AM Logging.Log write
+INFOS: <PCServertoAndroid> Protocol initialized
+mars 27, 2017 10:13:51 AM Logging.Log write
+GRAVE: <PCServertoAndroid> Exception caught when trying to listen on port 4444 or listening for a connection

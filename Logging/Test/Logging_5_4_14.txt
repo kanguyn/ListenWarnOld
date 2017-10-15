@@ -1,0 +1,132 @@
+avr. 05, 2017 2:01:10 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+avr. 05, 2017 2:01:13 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:01:13 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+avr. 05, 2017 2:01:13 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:01:13 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:01:20 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:01:20 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+avr. 05, 2017 2:01:20 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:01:20 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:02:35 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+avr. 05, 2017 2:02:35 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:02:35 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+avr. 05, 2017 2:02:35 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:02:35 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:02:40 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:02:40 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+avr. 05, 2017 2:02:40 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:02:40 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:02:45 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:02:45 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+avr. 05, 2017 2:02:45 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:02:45 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:02:50 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:02:50 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+avr. 05, 2017 2:02:50 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:02:50 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:02:55 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:02:55 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+avr. 05, 2017 2:02:55 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:02:55 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:03:00 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:03:00 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+avr. 05, 2017 2:03:00 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:03:00 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:03:05 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:03:05 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+avr. 05, 2017 2:03:05 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:03:05 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:03:10 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:03:10 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+avr. 05, 2017 2:03:10 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:03:10 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:03:16 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:03:16 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+avr. 05, 2017 2:03:16 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:03:16 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:03:21 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:03:21 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+avr. 05, 2017 2:03:21 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:03:21 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:03:26 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:03:26 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+avr. 05, 2017 2:03:26 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:03:26 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:03:31 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:03:31 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+avr. 05, 2017 2:03:31 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:03:31 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:03:36 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:03:36 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+avr. 05, 2017 2:03:36 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:03:36 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée
+avr. 05, 2017 2:03:41 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+avr. 05, 2017 2:03:41 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+avr. 05, 2017 2:03:41 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+avr. 05, 2017 2:03:41 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : chaine trouvée

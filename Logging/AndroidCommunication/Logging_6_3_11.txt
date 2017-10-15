@@ -1,0 +1,198 @@
+mars 06, 2017 11:05:56 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:05:57 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:05:57 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:05:58 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:05:58 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:05:58 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:05:58 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:05:59 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:05:59 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:05:59 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:05:59 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:00 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:00 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:00 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:06:00 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:01 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:01 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:01 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:06:01 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:02 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:02 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:02 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : left;Mot2
+mars 06, 2017 11:06:02 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:03 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:03 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:03 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : left;Mot2
+mars 06, 2017 11:06:03 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:04 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:04 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:04 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : left;Mot2
+mars 06, 2017 11:06:04 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:05 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:05 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:05 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : left;Mot2
+mars 06, 2017 11:06:05 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:06 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:06 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:06 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : left;Mot2
+mars 06, 2017 11:06:06 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:07 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:07 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:07 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:06:07 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:08 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:08 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:08 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:06:08 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:09 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:09 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:09 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:06:09 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:10 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:10 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:10 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:06:10 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:11 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:11 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:11 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : right;No song recognized
+mars 06, 2017 11:06:11 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:12 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:12 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:12 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : bottom;Mot2
+mars 06, 2017 11:06:12 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:13 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:13 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:13 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : bottom;Mot2
+mars 06, 2017 11:06:13 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:14 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:14 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:14 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : bottom;Mot2
+mars 06, 2017 11:06:14 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:15 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:15 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:15 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : bottom;Mot2
+mars 06, 2017 11:06:15 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:16 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:16 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:16 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : bottom;Mot2
+mars 06, 2017 11:06:16 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:17 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:17 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:17 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : top;RingingTone1
+mars 06, 2017 11:06:17 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:18 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:18 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:18 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : top;RingingTone1
+mars 06, 2017 11:06:18 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:19 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:19 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:19 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : top;RingingTone1
+mars 06, 2017 11:06:19 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:20 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:20 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:20 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : top;RingingTone1
+mars 06, 2017 11:06:20 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time
+mars 06, 2017 11:06:21 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : Bye.
+mars 06, 2017 11:06:21 AM Logging.Log write
+INFOS: <AndroidClient> Communication established with server
+mars 06, 2017 11:06:21 AM Logging.Log write
+INFOS: <AndroidClient> Information transmitted by the server are received : bottom;Mot1
+mars 06, 2017 11:06:21 AM Logging.Log write
+INFOS: <AndroidClient> Client waiting 1s before communicating with server another time

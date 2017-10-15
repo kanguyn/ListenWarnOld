@@ -1,0 +1,1598 @@
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: Beginning of a new session
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:04 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:05 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 3:59:05 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:05 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Bonjour
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:10 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Bonjour
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:15 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Marc
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:20 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Marc
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:25 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Marc
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:30 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Sound Not Found
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:35 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:40 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Marc
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:45 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:50 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 3:59:55 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:00 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:00:05 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:06 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:11 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:16 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Bonjour
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:21 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Monsieur
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:26 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:31 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Bonjour
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:36 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Alarm is ringing
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:41 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:46 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:51 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Sound Not Found
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:00:56 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:01 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:06 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Alarm is ringing
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:11 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:16 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:21 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:26 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Alarm is ringing
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:31 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:36 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:41 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:46 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Bonjour
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:51 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:01:56 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Alarm is ringing
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:01 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:06 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:12 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Bonjour
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:17 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Alarm is ringing
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:22 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:27 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:32 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:37 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:42 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Monsieur
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:47 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Alarm is ringing
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:52 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Alarm is ringing
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:02:57 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Bonjour
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:02 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:07 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:12 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:17 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Monsieur
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:22 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Bonjour
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:27 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Alarm is ringing
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:32 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:37 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:42 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Monsieur
+mai 17, 2017 4:03:44 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidThread> Connection initialized
+mai 17, 2017 4:03:44 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidThread> Protocol initialized
+mai 17, 2017 4:03:44 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Server waiting
+mai 17, 2017 4:03:44 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Transmitting localisation and wordspotting results : bottom;Monsieur
+mai 17, 2017 4:03:44 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Communication realized
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:47 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 4:03:49 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Server waiting
+mai 17, 2017 4:03:49 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Transmitting localisation and wordspotting results : top;Madame
+mai 17, 2017 4:03:49 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Communication realized
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:52 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Marc
+mai 17, 2017 4:03:54 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Server waiting
+mai 17, 2017 4:03:54 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Transmitting localisation and wordspotting results : bottom;Marc
+mai 17, 2017 4:03:54 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Communication realized
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:03:57 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Attention !
+mai 17, 2017 4:03:59 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Server waiting
+mai 17, 2017 4:03:59 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Transmitting localisation and wordspotting results : right;Attention !
+mai 17, 2017 4:03:59 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Communication realized
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+mai 17, 2017 4:04:02 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : Madame
+mai 17, 2017 4:04:04 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Server waiting
+mai 17, 2017 4:04:04 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Transmitting localisation and wordspotting results : top;Madame
+mai 17, 2017 4:04:04 PM Logging.Log write
+INFOS: <AndroidCommunication.IndependantPCServertoAndroidProtocolThread> Communication realized

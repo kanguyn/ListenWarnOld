@@ -1,0 +1,12 @@
+févr. 11, 2017 4:32:39 PM Logging.Log write
+INFOS: Replay Session
+févr. 11, 2017 4:32:39 PM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> IOException
+févr. 11, 2017 4:45:18 PM Logging.Log write
+INFOS: Replay Session
+févr. 11, 2017 4:45:18 PM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> IOException
+févr. 11, 2017 4:50:28 PM Logging.Log write
+INFOS: Replay Session
+févr. 11, 2017 4:50:28 PM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> IOException

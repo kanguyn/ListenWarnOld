@@ -1,0 +1,4 @@
+avr. 05, 2017 1:45:43 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+avr. 05, 2017 1:53:05 PM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning

@@ -1,0 +1,10 @@
+févr. 06, 2017 11:28:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+févr. 06, 2017 11:28:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+févr. 06, 2017 11:28:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+févr. 06, 2017 11:28:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+févr. 06, 2017 11:28:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : No song recognized

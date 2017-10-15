@@ -1,0 +1,20 @@
+févr. 16, 2017 1:46:45 PM Logging.Log write
+INFOS: <Server> Protocol initialized
+févr. 16, 2017 1:46:45 PM Logging.Log write
+INFOS: <Server> Server : Knock! Knock!
+févr. 16, 2017 1:47:53 PM Logging.Log write
+INFOS: <Server> Client : Who's there ?
+févr. 16, 2017 1:47:53 PM Logging.Log write
+INFOS: <Server> Server : You're supposed to say "Who's there?"! Try again. Knock! Knock!
+févr. 16, 2017 1:48:15 PM Logging.Log write
+INFOS: <Server> Client : Who's there?
+févr. 16, 2017 1:48:15 PM Logging.Log write
+INFOS: <Server> Server : Turnip
+févr. 16, 2017 1:48:38 PM Logging.Log write
+INFOS: <Server> Client : Turnip who?
+févr. 16, 2017 1:48:38 PM Logging.Log write
+INFOS: <Server> Server : Turnip the heat, it's cold in here! Want another? (y/n)
+févr. 16, 2017 1:48:45 PM Logging.Log write
+INFOS: <Server> Client : n
+févr. 16, 2017 1:48:45 PM Logging.Log write
+INFOS: <Server> Server : Bye.

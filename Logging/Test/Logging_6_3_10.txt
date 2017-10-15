@@ -1,0 +1,372 @@
+mars 06, 2017 10:42:06 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+mars 06, 2017 10:42:06 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:06 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:42:06 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:06 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:42:11 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:11 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:42:11 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:11 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:42:16 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:16 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:42:16 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:17 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:42:22 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:22 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:42:22 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:22 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:42:27 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:27 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:42:27 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:27 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:42:32 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:32 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 06, 2017 10:42:32 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:32 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:42:37 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:37 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:42:37 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:37 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:42:42 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:42 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:42:42 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:42 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:42:47 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:47 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:42:47 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:48 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:42:53 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:42:53 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:42:53 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:42:53 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:53:10 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+mars 06, 2017 10:53:10 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:53:10 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:53:10 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:53:11 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:53:16 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:53:16 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:53:16 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:53:16 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:53:21 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:53:21 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 06, 2017 10:53:21 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:53:21 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:53:26 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:53:26 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:53:26 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:53:26 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:53:31 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:53:31 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 06, 2017 10:53:31 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:53:32 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:53:37 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:53:37 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:53:37 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:53:37 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:53:42 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:53:42 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:53:42 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:53:42 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:54:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+mars 06, 2017 10:54:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:54:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 06, 2017 10:54:59 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:00 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:05 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:05 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 06, 2017 10:55:05 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:05 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:10 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:10 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:55:10 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:10 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+mars 06, 2017 10:55:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 06, 2017 10:55:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:55:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 06, 2017 10:55:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:30 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:30 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:55:30 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:31 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:36 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:36 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 06, 2017 10:55:36 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:36 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:41 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:41 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:55:41 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:41 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:46 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:46 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:55:46 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:46 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:51 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:51 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:55:51 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:51 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:55:56 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:55:56 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 06, 2017 10:55:56 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:55:57 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:56:02 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:56:02 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 06, 2017 10:56:02 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:56:02 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:56:07 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:56:07 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:56:07 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:56:07 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:56:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+mars 06, 2017 10:56:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:56:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 06, 2017 10:56:14 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:56:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:56:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:56:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:56:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:56:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:56:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:56:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 06, 2017 10:56:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:56:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm is ringing
+mars 06, 2017 10:59:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Initializing Machine Learning
+mars 06, 2017 10:59:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:59:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 06, 2017 10:59:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:59:15 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : No song recognized
+mars 06, 2017 10:59:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:59:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:59:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:59:20 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm1
+mars 06, 2017 10:59:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:59:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:59:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:59:25 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Mot2
+mars 06, 2017 10:59:31 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:59:31 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 06, 2017 10:59:31 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:59:31 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm1
+mars 06, 2017 10:59:36 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:59:36 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:59:36 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:59:36 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Mot3
+mars 06, 2017 10:59:41 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:59:41 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:59:41 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:59:41 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Mot3
+mars 06, 2017 10:59:46 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:59:46 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : right
+mars 06, 2017 10:59:46 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:59:46 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Alarm2
+mars 06, 2017 10:59:51 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:59:51 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 10:59:51 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:59:51 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Mot1
+mars 06, 2017 10:59:56 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 10:59:56 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : top
+mars 06, 2017 10:59:56 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 10:59:56 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : RingingTone1
+mars 06, 2017 11:00:01 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 11:00:01 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : left
+mars 06, 2017 11:00:01 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 11:00:01 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Mot3
+mars 06, 2017 11:00:06 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the direction of the sound
+mars 06, 2017 11:00:06 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Direction found : bottom
+mars 06, 2017 11:00:06 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Finding the nature of the sound present in the sound
+mars 06, 2017 11:00:06 AM Logging.Log write
+INFOS: <Test.TestFindWordThread> Sound detected : Mot1

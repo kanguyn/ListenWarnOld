@@ -1,0 +1,92 @@
+févr. 07, 2017 9:01:46 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 9:01:46 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> File Logging_5_1_15.txt not found
+févr. 07, 2017 9:01:47 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.AndroidSimulatorClientThread> Couldn't get I/O for the connection to localhost
+févr. 07, 2017 9:03:42 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 9:03:42 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> File Logging_5_1_15.txt not found
+févr. 07, 2017 9:03:43 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.AndroidSimulatorClientThread> Couldn't get I/O for the connection to localhost
+févr. 07, 2017 9:04:47 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 9:04:47 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> File Logging_5_1_15.txt not found
+févr. 07, 2017 9:04:48 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.AndroidSimulatorClientThread> Couldn't get I/O for the connection to localhost
+févr. 07, 2017 9:05:45 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 9:05:45 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> File Logging_5_1_15.txt not found
+févr. 07, 2017 9:05:46 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.AndroidSimulatorClientThread> Couldn't get I/O for the connection to localhost
+févr. 07, 2017 9:06:04 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 9:06:05 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.AndroidSimulatorClientThread> Couldn't get I/O for the connection to localhost
+févr. 07, 2017 9:08:21 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 9:08:22 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.AndroidSimulatorClientThread> Couldn't get I/O for the connection to localhost
+févr. 07, 2017 9:10:30 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 9:10:31 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.AndroidSimulatorClientThread> Couldn't get I/O for the connection to localhost
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: Beginning of a new session
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Connection initialized
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Protocol initialized
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Server waiting
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Communication established with server
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Preparing information to send to Android device
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Transmitting localisation and wordspotting results : top;No song recognized
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Information transmitted by the server are received : top;No song recognized
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Communication realized
+févr. 07, 2017 9:20:59 AM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Client waiting 5s before communicating with server another time
+févr. 07, 2017 9:24:48 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 9:24:48 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> File Logging_5_1_15.txt not found
+févr. 07, 2017 9:56:32 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 9:57:01 AM Logging.Log write
+INFOS: Replay Session

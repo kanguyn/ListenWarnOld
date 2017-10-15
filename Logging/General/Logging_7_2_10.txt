@@ -1,0 +1,12 @@
+févr. 07, 2017 10:00:58 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 10:00:58 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> Exception caught when trying to listen on port 4444 or listening for a connection
+févr. 07, 2017 10:01:13 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 10:01:13 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> Exception caught when trying to listen on port 4444 or listening for a connection
+févr. 07, 2017 10:01:25 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 10:01:49 AM Logging.Log write
+INFOS: Replay Session

@@ -1,0 +1,6 @@
+févr. 07, 2017 8:58:13 AM Logging.Log write
+INFOS: Replay Session
+févr. 07, 2017 8:58:13 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.ReplayPCServertoAndroidThread> File Logging_5_1_15.txt not found
+févr. 07, 2017 8:58:14 AM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.AndroidSimulatorClientThread> Couldn't get I/O for the connection to localhost

@@ -1,0 +1,6 @@
+Données attendues dans les fichiers localisation.txt et wordspotting.txt :
+- localisation.txt : les données attendues seront sous la forme "0010".
+	- chaque chiffre représente une direction dans l'ordre gauche-devant-droite-bas.
+	- Le chiffre est 1 si la voie estactivée et 0 sinon.
+	
+- wordspotting.txt : la donnée attendue est un mot.

@@ -1,0 +1,170 @@
+avr. 05, 2017 3:03:04 PM Logging.Log write
+INFOS: Beginning of a new session
+avr. 05, 2017 3:03:04 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Connection initialized
+avr. 05, 2017 3:03:04 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+avr. 05, 2017 3:03:04 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Protocol initialized
+avr. 05, 2017 3:03:04 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Server waiting
+avr. 05, 2017 3:03:04 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Communication established with server
+avr. 05, 2017 3:03:04 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Preparing information to send to Android device
+avr. 05, 2017 3:03:04 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 3:03:54 PM Logging.Log write
+INFOS: Beginning of a new session
+avr. 05, 2017 3:03:54 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Connection initialized
+avr. 05, 2017 3:03:54 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+avr. 05, 2017 3:03:54 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Protocol initialized
+avr. 05, 2017 3:03:54 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Server waiting
+avr. 05, 2017 3:03:54 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Communication established with server
+avr. 05, 2017 3:03:54 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Preparing information to send to Android device
+avr. 05, 2017 3:03:54 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 3:04:32 PM Logging.Log write
+INFOS: Beginning of a new session
+avr. 05, 2017 3:04:32 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Connection initialized
+avr. 05, 2017 3:04:32 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+avr. 05, 2017 3:04:32 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Protocol initialized
+avr. 05, 2017 3:04:32 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Server waiting
+avr. 05, 2017 3:04:32 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Communication established with server
+avr. 05, 2017 3:04:32 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Preparing information to send to Android device
+avr. 05, 2017 3:04:32 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 3:05:47 PM Logging.Log write
+INFOS: Beginning of a new session
+avr. 05, 2017 3:05:47 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Connection initialized
+avr. 05, 2017 3:05:47 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+avr. 05, 2017 3:05:47 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Protocol initialized
+avr. 05, 2017 3:05:47 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Server waiting
+avr. 05, 2017 3:05:47 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Communication established with server
+avr. 05, 2017 3:05:47 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Preparing information to send to Android device
+avr. 05, 2017 3:05:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 3:06:23 PM Logging.Log write
+INFOS: Beginning of a new session
+avr. 05, 2017 3:06:23 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+avr. 05, 2017 3:06:23 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: Beginning of a new session
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+avr. 05, 2017 3:07:35 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+avr. 05, 2017 3:07:37 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+avr. 05, 2017 3:07:39 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+avr. 05, 2017 3:07:41 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track

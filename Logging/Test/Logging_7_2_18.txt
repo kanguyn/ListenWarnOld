@@ -1,0 +1,58 @@
+févr. 07, 2017 6:06:36 PM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+févr. 07, 2017 6:06:36 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+févr. 07, 2017 6:06:36 PM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+févr. 07, 2017 6:06:36 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+févr. 07, 2017 6:06:36 PM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : Alarm2
+févr. 07, 2017 6:06:41 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+févr. 07, 2017 6:06:41 PM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+févr. 07, 2017 6:06:41 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+févr. 07, 2017 6:06:41 PM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : No song recognized
+févr. 07, 2017 6:06:46 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+févr. 07, 2017 6:06:46 PM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+févr. 07, 2017 6:06:46 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+févr. 07, 2017 6:06:46 PM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : Alarm2
+févr. 07, 2017 6:06:51 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+févr. 07, 2017 6:06:51 PM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+févr. 07, 2017 6:06:51 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+févr. 07, 2017 6:06:51 PM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : No song recognized
+févr. 07, 2017 6:06:56 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+févr. 07, 2017 6:06:56 PM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+févr. 07, 2017 6:06:56 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+févr. 07, 2017 6:06:56 PM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : Mot3
+févr. 07, 2017 6:07:01 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+févr. 07, 2017 6:07:01 PM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : top
+févr. 07, 2017 6:07:01 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+févr. 07, 2017 6:07:01 PM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : Alarm1
+févr. 07, 2017 6:07:06 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+févr. 07, 2017 6:07:06 PM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+févr. 07, 2017 6:07:06 PM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+févr. 07, 2017 6:07:06 PM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : Alarm2

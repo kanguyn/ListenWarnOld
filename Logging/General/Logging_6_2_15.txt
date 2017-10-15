@@ -1,0 +1,44 @@
+févr. 06, 2017 3:41:19 PM Logging.Log write
+INFOS: Beginning of a new session
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServertoAndroidThread> Connection initialized
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServertoAndroidThread> Protocol initialized
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServertoAndroidProtocolThread> Server waiting
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServertoAndroidProtocolThread> Preparing information to send to Android device
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : bottom
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServertoAndroidProtocolThread> Transmitting localisation and wordspotting results : bottom;No song recognized
+févr. 06, 2017 3:41:24 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServertoAndroidProtocolThread> Communication realized
+févr. 06, 2017 3:41:27 PM Logging.Log write
+AVERTISSEMENT: <AndroidCommunication.PCServertoAndroidThread> Exception caught when trying to listen on port 4444 or listening for a connection

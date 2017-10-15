@@ -1,0 +1,70 @@
+mars 27, 2017 11:17:14 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 11:17:14 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 11:17:14 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 11:17:14 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 11:17:14 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 11:17:19 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 11:17:19 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 11:17:19 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 11:17:19 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 11:17:19 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 11:17:24 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 11:17:24 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 11:17:24 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 11:17:24 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 11:17:24 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 11:17:29 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 11:17:29 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 11:17:29 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 11:17:29 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 11:17:29 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 11:17:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 11:17:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 11:17:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : right
+mars 27, 2017 11:17:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 11:17:34 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 11:17:39 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 11:17:39 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 11:17:39 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : left
+mars 27, 2017 11:17:39 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 11:17:39 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée
+mars 27, 2017 11:17:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Initializing Machine Learning
+mars 27, 2017 11:17:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the direction of the sound
+mars 27, 2017 11:17:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Direction found : bottom
+mars 27, 2017 11:17:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Finding the nature of the sound present in the sound
+mars 27, 2017 11:17:44 AM Logging.Log write
+INFOS: <Test.TestFindWord> Sound detected : chaine trouvée

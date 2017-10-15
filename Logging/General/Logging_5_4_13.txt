@@ -1,0 +1,12 @@
+avr. 05, 2017 1:45:43 PM Logging.Log write
+INFOS: Beginning of a new session
+avr. 05, 2017 1:45:43 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+avr. 05, 2017 1:45:43 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+avr. 05, 2017 1:53:05 PM Logging.Log write
+INFOS: Beginning of a new session
+avr. 05, 2017 1:53:05 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+avr. 05, 2017 1:53:05 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left

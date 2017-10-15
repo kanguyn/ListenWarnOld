@@ -1,0 +1,132 @@
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: Beginning of a new session
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Connection initialized
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Initializing Machine Learning
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerThread> Protocol initialized
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Server waiting
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Communication established with server
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Preparing information to send to Android device
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : top
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Transmitting localisation and wordspotting results : top;No song recognized
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Information transmitted by the server are received : top;No song recognized
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Communication realized
+févr. 07, 2017 7:34:37 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Client waiting 5s before communicating with server another time
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Information transmitted by the server are received : Bye.
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Server waiting
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Communication established with server
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Preparing information to send to Android device
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : left
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : No song recognized
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Transmitting localisation and wordspotting results : left;No song recognized
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Information transmitted by the server are received : left;No song recognized
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Communication realized
+févr. 07, 2017 7:34:42 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Client waiting 5s before communicating with server another time
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Information transmitted by the server are received : Bye.
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Server waiting
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Communication established with server
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Preparing information to send to Android device
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction left
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction left
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction top
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction top
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction right
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction right
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing Intensity table corresponding to the direction bottom
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <IntegrationTest.Audio> Initializing audio track corresponding to direction bottom
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <IntegrationTest.MultiAudio> Initializing multi-audio object
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <Localisation.Localisation> Trying to find the localization of the sound
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <Localisation.Localisation> Localization of the sound determined : right
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Trying to find the Sound present in audio track
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <MachineLearning.MachineLearning> Result of machine learning process : RingingTone2
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Transmitting localisation and wordspotting results : right;RingingTone2
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Information transmitted by the server are received : right;RingingTone2
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <AndroidCommunication.PCServerProtocolThread> Communication realized
+févr. 07, 2017 7:34:47 PM Logging.Log write
+INFOS: <AndroidCommunication.AndroidSimulatorClientThread> Client waiting 5s before communicating with server another time
