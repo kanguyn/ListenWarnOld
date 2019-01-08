@@ -1,2 +1,4 @@
 */*.html linguist-vendored
-*/*.txt linguist-vendored
+data/ export-ignore
+DataBase/ export-ignore
+Logging/ export-ignore
