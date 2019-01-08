@@ -1,4 +1,3 @@
-*/*.html linguist-vendored
 data/* export-ignore
 DataBase/* export-ignore
 Logging/* export-ignore
